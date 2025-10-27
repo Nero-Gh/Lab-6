@@ -1,0 +1,12 @@
+{
+  "login": {
+    "username": "testUser123",
+    "password": "Test@1234"
+  },
+  "textBox": {
+    "fullName": "John Doe",
+    "email": "johndoe@example.com",
+    "currentAddress": "123 Main Street",
+    "permanentAddress": "456 Park Avenue"
+  }
+}
